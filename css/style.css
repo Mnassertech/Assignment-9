@@ -1,0 +1,32 @@
+h1{
+    font-size:80px!important;
+    font-weight: bold;
+    unicode-bidi: isolate;
+    font-family: Impact;
+}
+div {
+    text-align: center;
+    margin-top: 100px;
+}
+p {
+    font-size: 20px!important ;
+}
+p {
+    margin-top: 20px!important;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+button:hover {
+    background-color: green;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
